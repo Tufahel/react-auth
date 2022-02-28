@@ -15,8 +15,7 @@ To get a local copy up and running follow these simple example steps.
 - After installing all files, type `npm start`.
 
 # Picture
-- Here is some screenshot.
-![Screenshot from 2022-02-28 14-00-38](https://user-images.githubusercontent.com/60083437/155946602-df9a9e6b-f08c-4b5e-8983-667b2458eb74.png)
+- Here is some screenshots:
 ![Screenshot from 2022-02-28 14-01-15](https://user-images.githubusercontent.com/60083437/155946636-a299d9ea-d352-4970-a041-913fe5cabd0e.png)
 ![Screenshot from 2022-02-28 14-01-51](https://user-images.githubusercontent.com/60083437/155946682-f9824653-d8fa-4e27-9999-c679603ebfa5.png)
 
