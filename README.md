@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Firebase Authentication with React
 
-# First Capstone project of Tufahel Ahmed
-
-This is the first capstone project of Tufahel Ahmed in Microverse. Tufahel Ahmed is coding scince 2017. He has coding experience on C,C++,Java,HTML,CSS,REACT and a little bit NodeJs. He has developed some websites for personal experience and use.
+This is an Uber-like simple app where I have basically used firebase authentication with React. We can hire Bike, Car, Bus, Train by using this demo app.
 
 # Live Page Link
 
