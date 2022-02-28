@@ -9,7 +9,7 @@ This is an Uber-like simple app where I have basically used firebase authenticat
 # Getting Started
 To get a local copy up and running follow these simple example steps.
 
-- Download this git repo using this [Link](git@github.com:Tufahel/rock-paper-scissors.git),
+- Download this git repo using this [Link](https://github.com/Tufahel/react-auth.git),
 - Extract this git copy.
 - Open terminal and type `npm install`.
 - After installing all files, type `npm start`.
