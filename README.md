@@ -1,6 +1,6 @@
 # Firebase Authentication with React
 
-This is an Uber-like simple app where I have basically used firebase authentication with React. We can hire Bike, Car, Bus, Train by using this demo app.
+This is an Uber-like simple ride-sharing app where I have basically used firebase authentication with React. With this app, we can see transportation fare, type, and amount.
 
 # Live Page Link
 
